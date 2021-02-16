@@ -23,6 +23,12 @@
       "day": "ifee",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "w",
+      "day": "w",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
