@@ -1,21 +1,9 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctor's appointment",
-      "day": "day1",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Match",
-      "day": "day3",
-      "reminder": false
-    },
-    {
       "text": "ads",
       "day": "asd",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     },
     {
@@ -29,6 +17,18 @@
       "day": "w",
       "reminder": true,
       "id": 6
+    },
+    {
+      "text": "nidn",
+      "day": "didaid",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "nn",
+      "day": "",
+      "reminder": true,
+      "id": 8
     }
   ]
 }
