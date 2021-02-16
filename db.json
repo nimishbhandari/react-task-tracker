@@ -10,7 +10,19 @@
       "id": 3,
       "text": "Match",
       "day": "day3",
-      "reminder": true
+      "reminder": false
+    },
+    {
+      "text": "ads",
+      "day": "asd",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "iwjdeiie",
+      "day": "ifee",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
